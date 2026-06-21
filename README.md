@@ -24,29 +24,21 @@ Olá, <nome_contato> tudo bem com você?
 
 ### Supabase — tabela de contatos
 
-<p align="center">
-  <img width="700" alt="Tabela de contatos cadastrados no Supabase" src="https://github.com/user-attachments/assets/9b9294d2-8ebb-4421-9719-d822d0237548" />
-</p>
+![Tabela de contatos cadastrados no Supabase](https://github.com/user-attachments/assets/9b9294d2-8ebb-4421-9719-d822d0237548)
 
 ### Terminal — execução do script
 
-
-<p align="center">
-  <img width="700" alt="Saída do terminal após envio das mensagens" src="https://github.com/user-attachments/assets/425135d0-3acd-4163-8546-21536bc07f5f" />
-</p>
+![Saída do terminal após envio das mensagens](https://github.com/user-attachments/assets/425135d0-3acd-4163-8546-21536bc07f5f)
 
 ### WhatsApp — mensagem recebida
 
-<p align="center">
-  <img width="700" alt="Mensagem personalizada recebida no WhatsApp" src="https://github.com/user-attachments/assets/0043cd6b-9451-4210-bf27-95862ee7731e" />
-</p>
+![Mensagem personalizada recebida no WhatsApp](https://github.com/user-attachments/assets/0043cd6b-9451-4210-bf27-95862ee7731e)
 
 ---
 
 ## 🚀 Tecnologias
 
 | Tecnologia | Descrição |
-
 |------------|-----------|
 | **Python 3** | Linguagem principal |
 | **Supabase** | Banco de dados e API |
@@ -60,10 +52,6 @@ Olá, <nome_contato> tudo bem com você?
 
 ```
 .
-├── assets/
-│   ├── supabase.png
-│   ├── terminal.png
-│   └── whatsapp.png
 ├── .env.example
 ├── .gitignore
 ├── main.py
@@ -155,16 +143,6 @@ Envia via Z-API
      │
      ▼
 Resultado exibido no terminal
-```
-
----
-
-## 💻 Exemplo de saída
-
-```
-1 contato(s) encontrado(s).
-
-✅ Mensagem enviada para Gabriel (5514999999999)
 ```
 
 ---
