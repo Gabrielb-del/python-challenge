@@ -24,15 +24,17 @@ Olá, <nome_contato> tudo bem com você?
 
 ### Supabase — tabela de contatos
 
-![Tabela de contatos cadastrados no Supabase](https://github.com/user-attachments/assets/9b9294d2-8ebb-4421-9719-d822d0237548)
+<img width="811" height="214" alt="WhatsApp Image 2026-06-21 at 11 37 02" src="https://github.com/user-attachments/assets/24c5ed48-ada6-419e-85a8-339a1413f5ac" />
 
 ### Terminal — execução do script
 
-![Saída do terminal após envio das mensagens](https://github.com/user-attachments/assets/425135d0-3acd-4163-8546-21536bc07f5f)
+<img width="549" height="77" alt="WhatsApp Image 2026-06-21 at 11 36 18" src="https://github.com/user-attachments/assets/8c78b378-2812-4479-a2a3-71cbc7a6daca" />
+
 
 ### WhatsApp — mensagem recebida
 
-![Mensagem personalizada recebida no WhatsApp](https://github.com/user-attachments/assets/0043cd6b-9451-4210-bf27-95862ee7731e)
+<img width="751" height="260" alt="WhatsApp Image 2026-06-21 at 11 36 29" src="https://github.com/user-attachments/assets/73249d30-f6a8-483e-8561-d05c4bc14033" />
+
 
 ---
 
